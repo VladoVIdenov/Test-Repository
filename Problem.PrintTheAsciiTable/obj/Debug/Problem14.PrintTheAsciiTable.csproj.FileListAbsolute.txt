@@ -1,0 +1,6 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\PrimitiveDataTypesAndVariables\Problem.PrintTheAsciiTable\obj\Debug\Problem14.PrintTheAsciiTable.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\PrimitiveDataTypesAndVariables\Problem.PrintTheAsciiTable\bin\Debug\Problem.PrintTheAsciiTable.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\PrimitiveDataTypesAndVariables\Problem.PrintTheAsciiTable\bin\Debug\Problem.PrintTheAsciiTable.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\PrimitiveDataTypesAndVariables\Problem.PrintTheAsciiTable\bin\Debug\Problem.PrintTheAsciiTable.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\PrimitiveDataTypesAndVariables\Problem.PrintTheAsciiTable\obj\Debug\Problem.PrintTheAsciiTable.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\PrimitiveDataTypesAndVariables\Problem.PrintTheAsciiTable\obj\Debug\Problem.PrintTheAsciiTable.pdb

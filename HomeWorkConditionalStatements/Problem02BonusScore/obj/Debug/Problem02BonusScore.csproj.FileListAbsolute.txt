@@ -1,0 +1,5 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem02BonusScore\bin\Debug\Problem02BonusScore.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem02BonusScore\bin\Debug\Problem02BonusScore.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem02BonusScore\bin\Debug\Problem02BonusScore.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem02BonusScore\obj\Debug\Problem02BonusScore.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem02BonusScore\obj\Debug\Problem02BonusScore.pdb

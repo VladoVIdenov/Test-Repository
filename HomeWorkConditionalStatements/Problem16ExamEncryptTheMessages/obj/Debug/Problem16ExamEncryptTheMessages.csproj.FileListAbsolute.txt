@@ -1,0 +1,6 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem16ExamEncryptTheMessages\bin\Debug\Problem16ExamEncryptTheMessages.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem16ExamEncryptTheMessages\bin\Debug\Problem16ExamEncryptTheMessages.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem16ExamEncryptTheMessages\bin\Debug\Problem16ExamEncryptTheMessages.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem16ExamEncryptTheMessages\obj\Debug\Problem16ExamEncryptTheMessages.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem16ExamEncryptTheMessages\obj\Debug\Problem16ExamEncryptTheMessages.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem16ExamEncryptTheMessages\obj\Debug\Problem16ExamEncryptTheMessages.pdb

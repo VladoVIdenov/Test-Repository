@@ -1,0 +1,6 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem13ExamCompoundInterest\bin\Debug\Problem13ExamCompoundInterest.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem13ExamCompoundInterest\bin\Debug\Problem13ExamCompoundInterest.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem13ExamCompoundInterest\bin\Debug\Problem13ExamCompoundInterest.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem13ExamCompoundInterest\obj\Debug\Problem13ExamCompoundInterest.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem13ExamCompoundInterest\obj\Debug\Problem13ExamCompoundInterest.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem13ExamCompoundInterest\obj\Debug\Problem13ExamCompoundInterest.pdb

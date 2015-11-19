@@ -1,0 +1,5 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem08DigitAsWOrd\bin\Debug\Problem08DigitAsWOrd.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem08DigitAsWOrd\bin\Debug\Problem08DigitAsWOrd.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem08DigitAsWOrd\bin\Debug\Problem08DigitAsWOrd.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem08DigitAsWOrd\obj\Debug\Problem08DigitAsWOrd.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem08DigitAsWOrd\obj\Debug\Problem08DigitAsWOrd.pdb

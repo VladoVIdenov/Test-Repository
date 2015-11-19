@@ -1,0 +1,6 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem01ExchangeIfGreater\bin\Debug\Problem01ExchangeIfGreater.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem01ExchangeIfGreater\bin\Debug\Problem01ExchangeIfGreater.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem01ExchangeIfGreater\bin\Debug\Problem01ExchangeIfGreater.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem01ExchangeIfGreater\obj\Debug\Problem01ExchangeIfGreater.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem01ExchangeIfGreater\obj\Debug\Problem01ExchangeIfGreater.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Kursove_Domashni\HomeWorkConditionalStatements\Problem01ExchangeIfGreater\obj\Debug\Problem01ExchangeIfGreater.pdb
