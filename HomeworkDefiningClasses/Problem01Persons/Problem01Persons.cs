@@ -10,18 +10,15 @@ namespace Problem01Persons
     {
         static void Main(string[] args)
         {
-            string personName = null;
+            
             Console.Write("Please enter a Person Name: ");
-            personName = Console.ReadLine();
+            string personName = Console.ReadLine();
 
-
-            int personAge;
             Console.Write("Please enter the ages of Person: ");
-            personAge = int.Parse(Console.ReadLine());
-
-            string personEmail = string.Empty;
+            int personAge = int.Parse(Console.ReadLine());
+            
             Console.Write("Please enter the email of Person: ");
-            personEmail = Console.ReadLine();
+            string personEmail = Console.ReadLine();
 
             Person firstPerson = new Person(personName, personAge);
             Person secondPerson = new Person(personName, personAge, personEmail);

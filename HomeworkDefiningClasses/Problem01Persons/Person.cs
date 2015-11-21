@@ -32,13 +32,13 @@ namespace Problem01Persons
             {
                 if (value == null)
                 {
-                    throw new ArgumentNullException("Put a valid Name");
+                    throw new ArgumentNullException("The Name can't be null");
                 }
                 value = value.Trim();
 
                 if (value == "")
                 {
-                    throw new ArgumentException("Put a valid Name");
+                    throw new ArgumentException("The Name can't be null or empty ");
                 }
 
                 this.name = value;
@@ -54,7 +54,7 @@ namespace Problem01Persons
             {
                 if (value < 1 || value > 100)
                 {
-                    throw new ArgumentException("Please enter a valid number of ages");
+                    throw new ArgumentOutOfRangeException("Please enter a valid number of ages in range [ 1 ... 100] ");
                 }
 
                 this.age = value;
